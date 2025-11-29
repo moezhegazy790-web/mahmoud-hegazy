@@ -215,6 +215,15 @@ body{
     box-shadow: 0 10px 40px rgba(96, 28, 252, 0.3);
 }
 
+.video-wrapper iframe {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+}
+
+
 /*Projects Section*/
 
 .projects-section{
